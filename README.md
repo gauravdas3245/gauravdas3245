@@ -3,7 +3,7 @@
 🎓 BCA Student | Building my way into Tech 🚀
 
 I'm currently learning programming and exploring the world
-of software development.
+of tech and development.
 
 ### 🛠️ Currently Learning
 
@@ -13,21 +13,13 @@ of software development.
 - Git & GitHub
 - AI/ML 🤖
 
-### 🚀 My Goal
+### 🚀 My Approach
 
 Learn → Build → Break → Fix → Improve
 
-### 📂 What you'll find here
-
-- Programming practice
-- DSA problems
-- Beginner projects
-- My learning journey
-
 ### 🌱 Currently Working On
 
-Improving my programming fundamentals and building
-real projects step by step.
+Improving my programming fundamentals and learning through practice
 
 ---
 
